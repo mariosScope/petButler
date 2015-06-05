@@ -1,2 +1,2 @@
-# petButler_Pr3
-Proyecto 3. Sistema de SoftStew. 
+# petButler
+Proyecto 3. Sistema de SoftStew. Administración de la informacion de la mascota.
